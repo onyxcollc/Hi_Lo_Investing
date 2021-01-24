@@ -27,7 +27,7 @@ Our team decided to use NYSE composite data to test the theory.
 ## Tools/Modules Used
 
 1. Monte Carlo Simulation
-2. API’s (NASDAQ)
+2. API’s (NYSE)
 3. Matplotlib
 4. Hv Plot 
 5. FFN (Financial Function)
