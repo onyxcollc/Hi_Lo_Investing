@@ -1,6 +1,6 @@
 # Hi_Lo_Investing
 
-[<img src="Images/Hi_Lo_Logo.PNG"/>]
+<img src="Images/Hi_Lo_Logo.PNG"/>
 
 
 
@@ -13,7 +13,7 @@ According to Richard Thaler, over the period from 1937 to 1969, $10,000 investme
 Is that still true in current times?
 
 
-[<img src="Images/book.PNG"/>]
+<img src="Images/book.PNG"/>
 
 
 ## Data Sets & Method
@@ -35,19 +35,19 @@ Our team decided to use NYSE composite data to test the theory.
 
 ## Daily Returns 
 
-[<img src="Images/Daily_Returns_Data.PNG"/>]
-[<img src="Images/NYSE_daily.PNG"/>]
+<img src="Images/Daily_Returns_Data.PNG"/>
+<img src="Images/NYSE_daily.PNG"/>
 
 
 ## Cumulative Returns 
 
-[<img src="Images/Cumulative_Return_1.PNG"/>]
-[<img src="Images/NYSE_cum.PNG"/>]
+<img src="Images/Cumulative_Return_1.PNG"/>
+<img src="Images/NYSE_cum.PNG"/>
 
 
 ## All Cumulative Returns Compared 
 
-[<img src="Images/All_Cum.PNG"/>]
+<img src="Images/All_Cum.PNG"/>
 
 
 # DISCLAIMER
