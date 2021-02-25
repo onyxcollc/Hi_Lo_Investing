@@ -4,7 +4,7 @@
 
 
 
-Contributories: Anna, Dana, Nico 
+Contributors: Anna, Dana, Nico 
 ---
 ## Background
 
